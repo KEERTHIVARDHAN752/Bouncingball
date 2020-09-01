@@ -1,2 +1,2 @@
-# Bouncingball
-bouncing ball in visual studio code.
+# staticSquare
+A static square made using Matter.js physics engine
